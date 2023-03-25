@@ -1,0 +1,11 @@
+Subscriber number: 75255920169
+Call records:
+2023-03-11T04:12:42 - 2023-03-11T04:18:36 - Incoming - 5,90 min - 0,00 rub
+2023-07-13T07:33:17 - 2023-07-13T07:42:20 - Incoming - 9,05 min - 0,00 rub
+2023-10-28T01:46:29 - 2023-10-28T01:49:55 - Incoming - 3,43 min - 0,00 rub
+Total charges: 0,00 roubles
+------------
+
+
+------------
+

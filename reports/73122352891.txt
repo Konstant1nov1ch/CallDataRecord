@@ -1,0 +1,11 @@
+Subscriber number: 73122352891
+Call records:
+2023-02-19T08:48:29 - 2023-02-19T08:58:40 - Incoming - 10,18 min - 0,00 rub
+2023-05-02T10:49:28 - 2023-05-02T10:55:32 - Outgoing - 6,07 min - 0,00 rub
+2023-11-19T18:03:18 - 2023-11-19T18:08:40 - Incoming - 5,37 min - 0,00 rub
+Total charges: 0,00 roubles
+------------
+
+
+------------
+
